@@ -51,7 +51,7 @@ Discriminator:
 	•	Used Optuna for automated search.
 	•	Tuned parameters: learning rate, batch size, embedding dimension, latent vector size.
 
-📊 Results
+ Results
 	•	Generated images show clear alignment with textual descriptions.
 	•	Visual examples:
 	•	Input: “A purple flower with five petals” → Generated image resembles correct petal shape and color.
@@ -60,7 +60,7 @@ Discriminator:
 	•	FID (Fréchet Inception Distance) used to measure quality and diversity.
 	•	Lower FID observed after applying spectral normalization and label smoothing.
 
-⚙️ Technologies Used
+ Technologies Used
 	•	Python 3.x
 	•	PyTorch / Torchvision
 	•	Numpy, Pandas
