@@ -67,3 +67,8 @@ Discriminator:
 	•	Matplotlib, Seaborn
 	•	Optuna (hyperparameter tuning)
 	•	NLTK / SpaCy (text preprocessing)
+Future Work
+	•	Extend to more complex datasets (COCO, CUB Birds).
+	•	Incorporate attention mechanisms for fine-grained alignment between words and image regions.
+	•	Explore transformer-based embeddings (BERT, CLIP) for better text understanding.
+	•	Deploy trained model as a web app for interactive text-to-image generation
